@@ -145,9 +145,6 @@ npm run build
 
 3. Set environment variables in your hosting platform's configuration.
 
-## License
-
-MIT
 
 ## Contributing
 
